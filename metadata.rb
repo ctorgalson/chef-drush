@@ -10,4 +10,3 @@ supports debian
 supports ubuntu
 
 depends apt
-depends php
